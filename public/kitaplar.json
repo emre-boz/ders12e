@@ -1,0 +1,19 @@
+{
+  "kitaplar": [
+    {
+      "no": 1,
+      "ad": "Kitap 1 adı",
+      "gorsel": "https://lipsum.app/id/15/200x300"
+    },
+    {
+      "no": 2,
+      "ad": "Kitap 2 adı",
+      "gorsel": "https://lipsum.app/id/25/200x300"
+    },
+    {
+      "no": 3,
+      "ad": "Kitap 3 adı",
+      "gorsel": "https://lipsum.app/id/35/200x300"
+    }
+  ]
+}
